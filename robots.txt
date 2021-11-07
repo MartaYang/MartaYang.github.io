@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://MartaYang.github.io/sitemap.xml
