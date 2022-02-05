@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fengyuan Yang</title>
-    <link>https://MartaYang.github.io/</link>
-      <atom:link href="https://MartaYang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Fengyuan Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <title>ROS | Fengyuan Yang</title>
+    <link>https://MartaYang.github.io/tag/ros/</link>
+      <atom:link href="https://MartaYang.github.io/tag/ros/index.xml" rel="self" type="application/rss+xml" />
+    <description>ROS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MartaYang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Fengyuan Yang</title>
-      <link>https://MartaYang.github.io/</link>
+      <title>ROS</title>
+      <link>https://MartaYang.github.io/tag/ros/</link>
     </image>
-    
-    <item>
-      <title>SEGA: Semantic Guided Attention on Visual Prototype for Few-Shot Learning</title>
-      <link>https://MartaYang.github.io/publication/example/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MartaYang.github.io/publication/example/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
     
     <item>
       <title>LoCoBot Project</title>
@@ -53,14 +30,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <description>&lt;p&gt;This year, we achieved 3D real-time reconstruction in real situations, as well as multi-dimensional scene understanding using a scene graph and 3D semantic segmentation. A distributed, decentralized, and scalable module communication framework between the robot (i.e., Loomo) and functional modules (e.g., 3D Reconstruction, Scene Graph, etc.) has been built. We also implemented the function of dynamic display and analysis of each module&amp;rsquo;s results with the front end of the web page.&lt;/p&gt;
 &lt;p&gt;This is now an ongoing robot project named Robot Vision Exploration Project, where I am the designer and maintainer of the customized communication framework that transfers data between the robot (e.g., LoCoBot or Loomo) and functional modules (e.g., 3D Reconstruction, Scene Graph, etc.) based on ROS. In this project, I learned practical robotic tools like PyRobot to control the robots, front-end/back-end web technology to build a demonstration website, and the ability to self-study and quickly assume responsibility in teamwork.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://MartaYang.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MartaYang.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>
