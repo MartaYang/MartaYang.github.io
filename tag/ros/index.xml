@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROS | Fengyuan Yang</title>
+    <link>https://MartaYang.github.io/tag/ros/</link>
+      <atom:link href="https://MartaYang.github.io/tag/ros/index.xml" rel="self" type="application/rss+xml" />
+    <description>ROS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MartaYang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ROS</title>
+      <link>https://MartaYang.github.io/tag/ros/</link>
+    </image>
+    
+    <item>
+      <title>LoCoBot Project</title>
+      <link>https://MartaYang.github.io/project/locobot/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://MartaYang.github.io/project/locobot/</guid>
+      <description>&lt;p&gt;This is an ongoing robot project named Robot Vision Exploration Project, where I am the designer and maintainer of the customized communication framework that transfers data between the robot (e.g., LoCoBot or Loomo) and functional modules (e.g., 3D Reconstruction, Scene Graph, etc.) based on ROS. In this project, I learned practical robotic tools like PyRobot to control the robots, front-end/back-end web technology to build a demonstration website, and the ability to self-study and quickly assume responsibility in teamwork.&lt;/p&gt;
+&lt;p&gt;This year we completed: 1) Robot entity update from Loomo to LoCoBot, the new robot has better movement stability, hardware scalability and software development; 2) Robot movement mode upgrade from passive control to active exploration. By deploying the ANS algorithm, the robot realizes autonomous positioning and real-time mapping based on image data, which truly gives the agent the motivation and ability to actively explore; 3) The cognitive model is improved from 2D scene analysis to 3D scene understanding, realizing the full mining and three-dimensional display of the semantic space relationship; 4) The lightweight improvement of the system communication architecture. We unified the data transmission in the form of ROS topics, realizing the efficient transmission of data between modules and the real-time display of the front end of the web page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loomo Project</title>
+      <link>https://MartaYang.github.io/project/loomo/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://MartaYang.github.io/project/loomo/</guid>
+      <description>&lt;p&gt;This year, we achieved 3D real-time reconstruction in real situations, as well as multi-dimensional scene understanding using a scene graph and 3D semantic segmentation. A distributed, decentralized, and scalable module communication framework between the robot (i.e., Loomo) and functional modules (e.g., 3D Reconstruction, Scene Graph, etc.) has been built. We also implemented the function of dynamic display and analysis of each module&amp;rsquo;s results with the front end of the web page.&lt;/p&gt;
+&lt;p&gt;This is now an ongoing robot project named Robot Vision Exploration Project, where I am the designer and maintainer of the customized communication framework that transfers data between the robot (e.g., LoCoBot or Loomo) and functional modules (e.g., 3D Reconstruction, Scene Graph, etc.) based on ROS. In this project, I learned practical robotic tools like PyRobot to control the robots, front-end/back-end web technology to build a demonstration website, and the ability to self-study and quickly assume responsibility in teamwork.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,49 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://MartaYang.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://MartaYang.github.io/publication-type/1/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MartaYang.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://MartaYang.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://MartaYang.github.io/publication-type/1/</loc>
-    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MartaYang.github.io/publication_types/</loc>
-    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MartaYang.github.io/publication/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MartaYang.github.io/publication/lpe/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MartaYang.github.io/publication/sega/</loc>
     <lastmod>2022-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://MartaYang.github.io/publication/example/</loc>
-    <lastmod>2022-01-04T00:00:00+00:00</lastmod>
+    <loc>https://MartaYang.github.io/tag/locobot/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://MartaYang.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://MartaYang.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://MartaYang.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://MartaYang.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://MartaYang.github.io/project/locobot/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MartaYang.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MartaYang.github.io/tag/pyrobot/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MartaYang.github.io/tag/robotics/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MartaYang.github.io/tag/ros/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MartaYang.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MartaYang.github.io/tag/loomo/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MartaYang.github.io/project/loomo/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MartaYang.github.io/admin/</loc>
   </url><url>
     <loc>https://MartaYang.github.io/categories/</loc>
-  </url><url>
-    <loc>https://MartaYang.github.io/post/</loc>
   </url>
 </urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loomo | Fengyuan Yang</title>
+    <link>https://MartaYang.github.io/tag/loomo/</link>
+      <atom:link href="https://MartaYang.github.io/tag/loomo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loomo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MartaYang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Loomo</title>
+      <link>https://MartaYang.github.io/tag/loomo/</link>
+    </image>
+    
+    <item>
+      <title>Loomo Project</title>
+      <link>https://MartaYang.github.io/project/loomo/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://MartaYang.github.io/project/loomo/</guid>
+      <description>&lt;p&gt;This year, we achieved 3D real-time reconstruction in real situations, as well as multi-dimensional scene understanding using a scene graph and 3D semantic segmentation. A distributed, decentralized, and scalable module communication framework between the robot (i.e., Loomo) and functional modules (e.g., 3D Reconstruction, Scene Graph, etc.) has been built. We also implemented the function of dynamic display and analysis of each module&amp;rsquo;s results with the front end of the web page.&lt;/p&gt;
+&lt;p&gt;This is now an ongoing robot project named Robot Vision Exploration Project, where I am the designer and maintainer of the customized communication framework that transfers data between the robot (e.g., LoCoBot or Loomo) and functional modules (e.g., 3D Reconstruction, Scene Graph, etc.) based on ROS. In this project, I learned practical robotic tools like PyRobot to control the robots, front-end/back-end web technology to build a demonstration website, and the ability to self-study and quickly assume responsibility in teamwork.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
