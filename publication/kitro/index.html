@@ -287,16 +287,15 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Fengyuan Yang" />
   <meta property="og:url" content="https://MartaYang.github.io/publication/kitro/" />
   <meta property="og:title" content="KITRO: Refining Human Mesh by 2D Clues and Kinematic-tree Rotation | Fengyuan Yang" />
-  <meta property="og:description" content="2D keypoints are commonly used as an additional cue to refine estimated 3D human meshes.  Current methods optimize the pose and shape parameters with a reprojection loss on the provided 2D keypoints. Such an approach, while simple and intuitive, has limited effectiveness because the optimal solution is hard to find in ambiguous parameter space and may sacrifice depth. Additionally, divergent gradients from distal joints complicate and deviate the refinement of proximal joints in the kinematic chain. To address these, we introduce Kinematic-Tree Rotation (KITRO), a novel mesh refinement strategy that explicitly models depth and human kinematic-tree structure. KITRO treats refinement from a bone-wise perspective.  Unlike previous methods which perform gradient-based optimizations, our method calculates bone directions in closed form.  By accounting for the 2D pose, bone length, and parent joint&#39;s depth, the calculation results in two possible directions for each child joint. We then use a decision tree to trace binary choices for all bones along the human skeleton&#39;s kinematic-tree to select the most probable hypothesis. Our experiments across various datasets and baseline models demonstrate that KITRO significantly improves 3D joint estimation accuracy and achieves an ideal 2D fit simultaneously." /><meta property="og:image" content="https://MartaYang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://MartaYang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="2D keypoints are commonly used as an additional cue to refine estimated 3D human meshes.  Current methods optimize the pose and shape parameters with a reprojection loss on the provided 2D keypoints. Such an approach, while simple and intuitive, has limited effectiveness because the optimal solution is hard to find in ambiguous parameter space and may sacrifice depth. Additionally, divergent gradients from distal joints complicate and deviate the refinement of proximal joints in the kinematic chain. To address these, we introduce Kinematic-Tree Rotation (KITRO), a novel mesh refinement strategy that explicitly models depth and human kinematic-tree structure. KITRO treats refinement from a bone-wise perspective.  Unlike previous methods which perform gradient-based optimizations, our method calculates bone directions in closed form.  By accounting for the 2D pose, bone length, and parent joint&#39;s depth, the calculation results in two possible directions for each child joint. We then use a decision tree to trace binary choices for all bones along the human skeleton&#39;s kinematic-tree to select the most probable hypothesis. Our experiments across various datasets and baseline models demonstrate that KITRO significantly improves 3D joint estimation accuracy and achieves an ideal 2D fit simultaneously." /><meta property="og:image" content="https://MartaYang.github.io/publication/kitro/featured.png" />
+    <meta property="twitter:image" content="https://MartaYang.github.io/publication/kitro/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -329,6 +328,10 @@
     "@id": "https://MartaYang.github.io/publication/kitro/"
   },
   "headline": "KITRO: Refining Human Mesh by 2D Clues and Kinematic-tree Rotation",
+  
+  "image": [
+    "https://MartaYang.github.io/publication/kitro/featured.png"
+  ],
   
   "datePublished": "2024-02-27T00:00:00Z",
   "dateModified": "2024-02-27T00:00:00Z",
@@ -800,18 +803,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>KITRO: Refining Human Mesh by 2D Clues and Kinematic-tree Rotation</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -857,7 +868,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -874,10 +885,21 @@
 
 
   
+    
+  
 
 
 
+<a class="btn btn-outline-primary btn-page-header" href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_KITRO_Refining_Human_Mesh_by_2D_Clues_and_Kinematic-tree_Rotation_CVPR_2024_paper.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/kitro/cite.bib">
+  Cite
+</a>
 
 
   
@@ -893,9 +915,25 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://drive.google.com/file/d/1BKIhEegG5bCWqG8g7QUbn4cuCNqbuegb/view?usp=sharing" target="_blank" rel="noopener">
+  Poster
+</a>
 
 
 
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://drive.google.com/file/d/1y9seM3txb1ht9LQfyQbXTBO15pSGHbmI/view?usp=sharing" target="_blank" rel="noopener">
+  Video
+</a>
 
 
 
@@ -904,7 +942,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 572px;">
+  <div style="position: relative">
+    <img src="/publication/kitro/featured_hu17cac5fd0e61a350d8acad6faae5bb25_137696_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <span class="article-header-caption">The framework overview of our KITRO.</span>
+  </div>
 </div>
 
 
@@ -1093,7 +1138,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     <div class="media-body">
       <h5 class="card-title"><a href="https://MartaYang.github.io/">Fengyuan Yang</a></h5>
       <h6 class="card-subtitle">PhD. student in Computer Science</h6>
-      <p class="card-text">My research interests encompass the field of Computer Vision, with a particular emphasis on Human Pose Estimation during my Ph.D. Previously, during my Master&rsquo;s studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.</p>
+      <p class="card-text">My research interests encompass the field of Computer Vision, with a particular emphasis on Human Pose Estimation in the world coordinate during my Ph.D. Previously, during my Master&rsquo;s studies, I explored the incorporation of semantic knowledge in Few-Shot Learning.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
