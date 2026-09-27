@@ -5,12 +5,20 @@
     <link>https://MartaYang.github.io/publication-type/1/</link>
       <atom:link href="https://MartaYang.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MartaYang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://MartaYang.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration</title>
+      <link>https://MartaYang.github.io/publication/one-shot/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://MartaYang.github.io/publication/one-shot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HumanBA: Human-Aware Bundle Adjustment via Global Human-Camera Decoupling</title>
